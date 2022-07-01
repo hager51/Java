@@ -1,3 +1,1 @@
-Given a sentence and a word, your task is that to count the number of occurrences of the given word in the string and print the number of occurrence of the word.
-  1. Perform the above task using only methods of the String class (2 ways).
-  2. Perform the above task using StringTokenizer class.
+Develop an application to convert temperature from Centigrade to Fahrenheit using Function<T,R>.
