@@ -1,0 +1,7 @@
+• Your goal is to make a method called betterStringthat takes two Strings and a lambda that says whether the first of the two is “better”.
+• The method should return that better String; i.e., if the function given by the lambda returns true, the betterStringmethod should return the first String, 
+  otherwise betterStringshould return the second String.
+• String string1 = ...;
+• String string2 = ...;
+• String longer = StringUtils.betterString(string1, string2, (s1, s2) -> s1.length() > s2.length());
+• String first = StringUtils.betterString(string1, string2, (s1, s2) -> true);
