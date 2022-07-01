@@ -1,1 +1,2 @@
-Count a group of words in a string using regular expressions.
+Use the interfaces in java.util.functionto build an application that defines the roots of the quadratic equation (a.x^2 + 𝑏x + 𝑐 = 0) 
+and the roots could be computed by the following formula (𝑥 = (−𝑏 ± (𝑏^2 − 4c)^0.5)/2a)
