@@ -1,0 +1,24 @@
+• World Countries:There are two domain classes: Country and City. 
+  Each city belongs to acountry defined by the attribute, countryCode. 
+  Each country has a unique code and has many cities.
+
+• The Country class has the following attributes:
+  private String code; 
+  private String name; 
+  private String continent; 
+  private double surfaceArea;
+  private int population;
+  private double gnp;
+  private int capital;
+  private List<City> cities;
+  
+• The City class has the following attributes:
+  private int id;
+  private String name;
+  private int population;
+  private String countryCode;
+  
+• Create the above two classes and then create a java application to find the following:
+    - Find the highest populated city of each country
+    - Find the most populated city of each continent
+    - Find the highest populated capital city
