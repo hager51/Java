@@ -1,0 +1,3 @@
+Rewrite the application to implement the binary search algorithm and compute the search running time.
+
+Hint: Use System.currentTimeMillis() or System.nanoTime().
