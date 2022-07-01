@@ -1,2 +1,4 @@
-Use the interfaces in java.util.functionto build an application that defines the roots of the quadratic equation (a.x^2 + 𝑏x + 𝑐 = 0) 
-and the roots could be computed by the following formula (𝑥 = (−𝑏 ± (𝑏^2 − 4c)^0.5)/2a)
+• Create a base class named Shape that contains one abstract method draw().
+• Create two concrete classes (Rectangle and Circle) that extend Shape.
+• Create a test class that defines a method that accepts a list that contains only child classes of shape.
+• Test your method by creating two ArrayList of Rectangle and shapes and pass them to the generic method.
